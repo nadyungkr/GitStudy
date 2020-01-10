@@ -10,10 +10,19 @@
 
 
 ````
-html
-
-<h1>Hello</h1>
-<p>Today,  I'm going to study GIT. </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <h1>hello</h1>
+  <p>Today, Im going to study git.</p>
+</body>
+</html>
 
 ````
 
@@ -25,4 +34,17 @@ html
 
 순서 없는 목록은 다음과 같이 작성할 수 있습니다
 
-* 깃 튜토리얼
+* 나듕 git repository
+  * portpolio
+  * js study
+  * git study
+  * clone coding
+    * html
+    * css
+    * js
+    * jquery
+    * react
+    
+ 자주 사용하는 인용구문은 다음과 같이 작성할 수 있습니다
+ 
+ > '공부합시다' - 나듕이 -
