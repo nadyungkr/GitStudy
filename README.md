@@ -9,7 +9,7 @@
 소스코드 블록은 숫자키 1옆에 `로 작성
 
 
-````
+````html
 <!DOCTYPE html>
 <html lang="en">
 <head>
